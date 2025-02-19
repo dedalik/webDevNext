@@ -1,13 +1,12 @@
 import HeroSection from "@/components/Hero/HeroSection";
 
-export default function Home() {
+export default function Recipes() {
   return (
-    <div className="home">
+    <div className="recipes">
       <HeroSection
-        title="Homepage Title"
+        title="Recipes Title"
         description="Build fast, responsive websites with Next.js and Tailwind CSS"
-        imgSrc="/hero.webp"
-        isActiveBtn
+        imgSrc="/benefit-one.webp"
       />
     </div>
   );

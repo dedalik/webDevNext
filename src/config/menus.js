@@ -4,11 +4,7 @@ export const headerMenus = [
     url: "/",
   },
   {
-    title: "About",
-    url: "/about",
-  },
-  {
-    title: "Contact us",
-    url: "/contact-us",
+    title: "Recipes",
+    url: "/recipes",
   },
 ];
