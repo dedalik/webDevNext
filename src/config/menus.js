@@ -7,4 +7,8 @@ export const headerMenus = [
     title: "Recipes",
     url: "/recipes",
   },
+  {
+    title: "Github",
+    url: "/github",
+  },
 ];
