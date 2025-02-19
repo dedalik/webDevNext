@@ -11,4 +11,8 @@ export const headerMenus = [
     title: "Github",
     url: "/github",
   },
+  {
+    title: "Pokemon",
+    url: "/",
+  },
 ];
